@@ -15,7 +15,7 @@ Python
 JavaScript  
 Swift    
 
-**Libraries**
+**Libraries**  
 Flask  
 discord.py    
 re
