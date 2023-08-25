@@ -27,10 +27,14 @@ You can view my portfolio [here](https://www.rockwill.dev).
 - OpenCV
 - PIL
 #### Server Architecture
-- AWS
+- Google Cloud
 - PythonAnywhere
 #### Game Development
 - Godot
+#### Design and Manufacturing
+- FDM / SLA printing
+- Marlin socket programming
+- SolveSpace / AutoCAD / SketchUp / Blender / WOMP
 ## Projects
 My current project is [HanguLingo](https://hangulingo.rockwill.dev), a way to learn Korean from anywhere, anytime, in the browser. There's an app available on the iOS app store [here](https://apps.apple.com/us/app/hangulingo/id6452472457).  
 ### Weekend Projects
