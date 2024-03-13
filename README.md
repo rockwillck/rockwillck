@@ -1,7 +1,7 @@
 # William Choi-Kim
-Full Stack Developer
+Web Developer
 ## My Portfolio
-You can view my portfolio [here](https://www.rockwill.dev).
+You can view my portfolio [here](https://www.rockwill.dev). I run a small web development agency called [Sparkplug.Page](https://sparkplug.page).
 ## Technologies
 ### Languages
 - JavaScript, HTML, CSS
@@ -38,8 +38,10 @@ You can view my portfolio [here](https://www.rockwill.dev).
 - Marlin socket programming
 - SolveSpace / AutoCAD / SketchUp / Blender / WOMP
 ## Projects
-My current project is [HanguLingo](https://hangulingo.rockwill.dev), a way to learn Korean from anywhere, anytime, in the browser. There's an app available on the iOS app store [here](https://apps.apple.com/us/app/hangulingo/id6452472457).  
+My current project is [Lenoir](https://www.rockwill.dev/lenoir), a modern, concise webkit. I'm also working on [Korn](https://www.rockwill.dev/korn/), a way to learn Korean from anywhere, anytime, in the browser by reading webnovels.
 ### Weekend Projects
+- [TeaTime](https://www.rockwill.dev/teatime/), an online minimalist teatimer
+- [Polyrhythms](https://www.rockwill.dev/polyrhythm/), an experiment with procedural melodies
 - [*msg stories*](https://rockwill.dev/msg-stories), an AI experiment
 - [RT3dMetaballs](https://rockwill.dev/RT3dMetaballs), a metaballs implementation that runs in the browser
 - [Secretio.net](https://www.secretio.net), a secret sharing social experiment
@@ -50,6 +52,6 @@ My current project is [HanguLingo](https://hangulingo.rockwill.dev), a way to le
 ### Web Games
 My entire webgame catalog can be found on [itch.io](https://rockwillck.itch.io/)
 ### Discord Bot
-I also developed [Luka](https://luka.sparkplug.page), a discord bot used by hundreds of communities and over 80,000 people.
+I also developed [Luka](https://luka.sparkplug.page), a discord bot used by hundreds of communities and over 90,000 people.
 ### License
 Many of my recent projects are licensed under my own general software license, [the Bok Choy General Software License](https://github.com/rockwillck/Bok-Choy-License)
