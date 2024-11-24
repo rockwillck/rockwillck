@@ -3,6 +3,8 @@ Web Developer
 ## My Portfolio
 You can view my portfolio [here](https://www.rockwill.dev). I run a small web development agency called [Sparkplug.Page](https://sparkplug.page).
 ## Projects
+### SmilesDB
+A SMILES-first molecule database, open-source and accesssible with a free API.
 ### Lenoir
 A small web toolkit that makes the web more accessible, both for creators and end users.
 ### OpLang
