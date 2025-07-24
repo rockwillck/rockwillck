@@ -9,5 +9,3 @@ A body cycle tracker powered by a novel trend-identification algorithm.
 ### [OpLang](https://github.com/rockwillck/oplang)
 [![screenshot](https://i.imgur.com/jqqm9h7.png)](https://rockwill.dev/OpLang)
 An operational programming language with a unique programming paradigm.
-## License
-Many of my recent projects are licensed under my own general software license, [the Bok Choy General Software License](https://github.com/rockwillck/Bok-Choy-License)
